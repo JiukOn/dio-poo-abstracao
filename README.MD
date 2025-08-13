@@ -32,35 +32,9 @@ A lógica do projeto está organizada nas seguintes classes, localizadas no paco
 
 ---
 
-## 🛠️ Como Executar
-
-Para executar o projeto, você precisará de uma máquina com **JDK 11** ou superior e o **Git** instalado.
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://docs.github.com/articles/referencing-and-citing-content](https://docs.github.com/articles/referencing-and-citing-content)
-    cd desafio-poo-dio
-    ```
-
-2.  **Compile o projeto:**
-    ```bash
-    # A partir da pasta raiz do projeto
-    javac -d out/production/desafio-poo-dio src/br/com/dio/desafio/dominio/*.java src/Main.java
-    ```
-
-3.  **Execute a classe `Main`:**
-    ```bash
-    # A partir da pasta raiz do projeto
-    java -cp out/production/desafio-poo-dio Main
-    ```
-
-O resultado da execução será exibido no console, mostrando a progressão dos desenvolvedores Camila e João.
-
----
-
 ## 🤝 Contribuição
 
-Este repositório foi criado para fins de estudo e prática. Sinta-se à vontade para explorá-lo, modificá-lo e adaptá-lo.
+Este repositório foi criado para fins de estudo e prática na DIO. Sinta-se à vontade para explorá-lo, modificá-lo e adaptá-lo.
 
 Se tiver alguma sugestão ou encontrar um problema, por favor, abra uma "Issue".
 Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compartilhar.
