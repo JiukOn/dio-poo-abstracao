@@ -1,7 +1,7 @@
-import src.Bootcamp;
-import src.Curso;
-import src.Dev;
-import src.Mentoria;
+import dio-poo-abstracao.src.Bootcamp;
+import dio-poo-abstracao.src.Curso;
+import dio-poo-abstracao.src.Dev;
+import dio-poo-abstracao.src.Mentoria;
 
 import java.time.LocalDate;
 
@@ -55,3 +55,4 @@ public class Main {
         System.out.println("XP:" + devJoao.calcularTotalXp());
     }
 }
+
